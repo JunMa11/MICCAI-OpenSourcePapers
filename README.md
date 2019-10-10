@@ -75,15 +75,15 @@
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
+|INN: Inflated Neural Networks for IPMN Diagnosis|Rodney LaLonde|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_12)|[Code](https://github.com/lalonderodney/INN-Inflated-Neural-Nets)|
+|Generating Large Labeled Data Sets for Laparoscopic Image Processing Tasks Using Unpaired Image-to-Image Translation|Micha Pfeiffer|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_14)|[Code](http://opencas.dkfz.de/image2image/)|
+|Variational Shape Completion for Virtual Planning of Jaw Reconstructive Surgery|Amir H. Abdi|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_26)|[Code](https://github.com/amir-abdi/prob-shape-completion)|
+|Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video|Yueming Jin|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_49)|[Code](https://github.com/keyuncheng/MF-TAPNet)|
+|Hard Frame Detection and Online Mapping for Surgical Phase Recognition|Fangqiu Yi|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_50)|[Code](https://github.com/ChinaYi/miccai19)|
+|Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video|Isabel Funke|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_52)|[Code](https://gitlab.com/nct_tso_public/surgical_gesture_recognition)|
+|Matwo-CapsNet: A Multi-label Semantic Segmentation Capsules Network|Savinien Bonheur|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_74)|[Code](https://github.com/savinienb/Matwo-CapsNet)|
+|LumiPath – Towards Real-Time Physically-Based Rendering on Embedded Devices|Laura Fink|[LNCS](https://doi.org/10.1007/978-3-030-32254-0_75)|[Code](https://github.com/lorafib/LumiPath)|
+
 
 
 ## [Part VI, LNCS Volume 11769](): Computed Tomography; X-ray Imaging
@@ -91,6 +91,6 @@
 |Title|First Author|PDF|Code|
 |---|---|---|---|
 |||[LNCS]()|[Code]()|
-
+|||[LNCS]()|[Code]()|
 
 **Any contributations are welcome! Such as arxiv PDF link, new released code and so on.**
