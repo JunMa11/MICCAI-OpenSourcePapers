@@ -6,6 +6,20 @@
 |---|---|---|---|
 |A Deep Reinforcement Learning Framework for Frame-by-Frame Plaque Tracking on Intravascular Optical Coherence Tomography Image|Gongning Luo|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_2)|[Code]( https://github.com/luogongning/PlaqueRL)|
 |Boundary and Entropy-Driven Adversarial Learning for Fundus Image Segmentation|Shujun Wang|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_12)|[Code]( https://github.com/EmmaW8/BEAL)|
+|Probabilistic Atlases to Enforce Topological Constraints|Udaranga Wickramasinghe|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_25)|[Code](https://github.com/cvlab-epfl/PA-net.git)|
+|Synapse-Aware Skeleton Generation for Neural Circuits|Brian Matejek|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_26)|[Code](https://www.rhoana.org/synapseaware)|
+|Seeing Under the Cover: A Physics Guided Learning Approach for In-bed Pose Estimation|Shuangjun Liu|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_27)|[Code](https://web.northeastern.edu/ostadabbas/2019/06/27/multimodal-in-bedpose-estimation/)|
+|Ki-GAN: Knowledge Infusion Generative Adversarial Network for Photoacoustic Image Reconstruction In Vivo|Hengrong Lan|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_31)|[Code](https://github.com/chenyilan/MICCAI19-Ki-GAN)|
+|Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification|Xiaoqing Guo|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_33)|[Code](https://github.com/Guo-Xiaoqing/Triple-ANet)|
+|Selective Feature Aggregation Network with Area-Boundary Constraints for Polyp Segmentation|Yuqi Fang|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_34)|[Code]( https://github.com/Yuqi-cuhk/Polyp-Seg)|
+|Multi-scale Cell Instance Segmentation with Keypoint Graph Based Bounding Boxes|Jingru Yi|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_41)|[Code](https://github.com/yijingru/KG_Instance_Segmentation)|
+|Improving Nuclei/Gland Instance Segmentation in Histopathology Images by Full Resolution Neural Network and Spatial Constrained Loss|Hui Qu|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_42)|[Code](https://github.com/huiqu18/FullNet-varCE)|
+|ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation|Zhijie Zhang|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_49)|[Code](https://github.com/ZzzJzzZ/ETNet)|
+|Instance Segmentation of Biomedical Images with an Object-Aware Embedding Learned with Local Constraints|Long Chen|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_50)|[Code](https://github.com/looooongChen/instance_segmentation_with_pixel_embeddings/)|
+|Synthetic Patches, Real Images: Screening for Centrosome Aberrations in EM Images of Human Cancer Cells|Artem Lukoyanov|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_58)|[Code](https://github.com/kreshuklab/centriole_detection)|
+|Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response|Kazuya Nishimura|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_72)|[Code]( https://github.com/naivete5656/WSISPDR)|
+|Robust Non-negative Tensor Factorization, Diffeomorphic Motion Correction, and Functional Statistics to Understand Fixation in Fluorescence Microscopy|Neel Dey|[LNCS](https://doi.org/10.1007/978-3-030-32239-7_73)|[Code](https://github.com/neel-dey/robustNTF)|
+
 
 
 ## Part II, [LNCS Volume 11765](https://link.springer.com/book/10.1007/978-3-030-32245-8): Image Segmentation; Image Registration; Cardiovascular Imaging; Growth, Development, Atrophy, and Progression 
@@ -19,7 +33,7 @@
 |PHiSeg: Capturing Uncertainty in Medical Image Segmentation|Christian F. Baumgartner|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_14)|[Code](https://github.com/baumgach/PHiSeg-code)|
 |Automatic Segmentation of Vestibular Schwannoma from T2-Weighted MRI by Deep Spatial Attention with Hardness-Weighted Loss|Guotai Wang|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_30)|[Code](https://github.com/NifTK/VSSegmentation)|
 |Learning Shape Representation on Sparse Point Clouds for Volumetric Image Segmentation|Fabian Balsiger|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_31)|[Code](https://github.com/fabianbalsiger/point-cloud-segmentation-miccai2019)|
-|3D U2-Net: A 3D Universal U-Net for Multi-domain Medical Image Segmentation|Chao Huang|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_33)|[Code](https://github.com/huangmozhilv/u2net torch/)|
+|3D U2-Net: A 3D Universal U-Net for Multi-domain Medical Image Segmentation|Chao Huang|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_33)|[Code](https://github.com/huangmozhilv/u2net_torch/)|
 |Constrained Domain Adaptation for Segmentation|Mathilde Bateson|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_37)|[Code](https://github.com/CDAMICCAI2019/CDA)|
 |Curriculum Semi-supervised Segmentation|Hoel Kervadec|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_63)|[Code](https://github.com/LIVIAETS/semi_curriculum)|
 |Uncertainty-Aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation|Lequan Yu|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_67)|[Code](https://github.com/yulequan/UA-MT)|
@@ -66,6 +80,9 @@
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
 |||[LNCS]()|[Code]()|
 
 
