@@ -1,6 +1,6 @@
 # MICCAI 2019 Open Source Papers
 
-## Part I, [LNCS Volume 11764](https://link.springer.com/book/10.1007/978-3-030-32239-7#volumes): Optical Imaging; Endoscopy; Microscopy 
+## [Part I, LNCS Volume 11764](https://link.springer.com/book/10.1007/978-3-030-32239-7#volumes): Optical Imaging; Endoscopy; Microscopy 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -22,7 +22,7 @@
 
 
 
-## Part II, [LNCS Volume 11765](https://link.springer.com/book/10.1007/978-3-030-32245-8): Image Segmentation; Image Registration; Cardiovascular Imaging; Growth, Development, Atrophy, and Progression 
+## [Part II, LNCS Volume 11765](https://link.springer.com/book/10.1007/978-3-030-32245-8): Image Segmentation; Image Registration; Cardiovascular Imaging; Growth, Development, Atrophy, and Progression 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -42,30 +42,25 @@
 |Disease Knowledge Transfer Across Neurodegenerative Diseases|R˘azvan V. Marinescu|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_95)|[Code](https://github.com/mrazvan22/dkt)|
 
 
-## Part III, [LNCS Volume 11766](https://link.springer.com/book/10.1007/978-3-030-32248-9): Neuroimage Reconstruction and Synthesis; Neuroimage Segmentation; Diffusion-Weighted Magnetic Resonance Imaging; Functional Neuroimaging (fMRI); Miscellaneous Neuroimaging
+## [Part III, LNCS Volume 11766](https://link.springer.com/book/10.1007/978-3-030-32248-9): Neuroimage Reconstruction and Synthesis; Neuroimage Segmentation; Diffusion-Weighted Magnetic Resonance Imaging; Functional Neuroimaging (fMRI); Miscellaneous Neuroimaging
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
 |Model-Based Convolutional De-Aliasing Network Learning for Parallel MR Imaging|Yanxia Chen|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_4)|[Code](https://github.com/yanxiachen/ConvDe-AliasingNet)|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
+|Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks|Gihyun Kwon|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_14)|[Code](https://github.com/cyclomon/3dbraingen)|
+|Predicting the Evolution of White Matter Hyperintensities in Brain MRI Using Generative Adversarial Networks and Irregularity Map|Muhammad Febrian Rachmadi|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_17)|[Code](https://github.com/febrianrachmadi/dep-gan-im)|
+|3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI|Chen Chen|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_21)|[Code](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)|
+|Refined Segmentation R-CNN: A Two-Stage Convolutional Neural Network for Punctate White Matter Lesion Segmentation in Preterm Infants|Yalong Liu|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_22)|[Code](https://github.com/YalongLiu/Refined-Segmentation-RCNN)|
+|X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-Range Dependencies|Kehan Qi|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_28)|[Code](https://github.com/Andrewsher/X-Net)|
+|CLCI-Net: Cross-Level Fusion and Context Inference Networks for Lesion Segmentation of Chronic Stroke|Hao Yang|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_30)|[Code](https://github.com/YH0517/CLCI_Net)|
+|Unsupervised Deep Learning for Bayesian Brain MRI Segmentation|Adrian V. Dalca|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_40)|[Code](http://voxelmorph.mit.edu)|
+|A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation|Robin Brügger|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_48)|[Code](https://github.com/RobinBruegger/PartiallyReversibleUnet)|
+|Cortical Surface Parcellation Using Spherical Convolutional Neural Networks|Prasanna Parvathaneni|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_56)|[Code](https://github.com/ilwoolyu/HSD)|
+|Deep White Matter Analysis: Fast, Consistent Tractography Segmentation Across Populations and dMRI Acquisitions|Fan Zhang|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_67)|[Code](https://github.com/SlicerDMRI/DeepWMA)|
+|DeepTract: A Probabilistic Deep Learning Framework for White Matter Fiber Tractography|Itay Benou|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_70)|[Code](https://github.com/itaybenou/DeepTract.git)|
 
-## Part IV, [LNCS Volume 11767](https://link.springer.com/book/10.1007/978-3-030-32251-9): Shape; Prediction; Detection and Localization; MachineLearning;Computer-AidedDiagnosis;ImageReconstructionandSynthesis 
+
+## [Part IV, LNCS Volume 11767](https://link.springer.com/book/10.1007/978-3-030-32251-9): Shape; Prediction; Detection and Localization; MachineLearning;Computer-AidedDiagnosis;ImageReconstructionandSynthesis 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -76,7 +71,7 @@
 |||[LNCS]()|[Code]()|
 |||[LNCS]()|[Code]()|
 
-## Part V, [LNCS Volume 11768](https://link.springer.com/book/10.1007/978-3-030-32254-0): Computer-Assisted Interventions; MIC Meets CAI 
+## [Part V, LNCS Volume 11768](https://link.springer.com/book/10.1007/978-3-030-32254-0): Computer-Assisted Interventions; MIC Meets CAI 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -91,6 +86,10 @@
 |Title|First Author|PDF|Code|
 |---|---|---|---|
 |||[LNCS]()|[Code]()|
-
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
 
 **Any contributations are welcome! Such as arxiv PDF link, new released code and so on.**
