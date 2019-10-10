@@ -1,6 +1,6 @@
 # MICCAI 2019 Open Source Papers
 
-## [Part I, LNCS Volume 11764](https://link.springer.com/book/10.1007/978-3-030-32239-7#volumes): Optical Imaging; Endoscopy; Microscopy 
+## [Part I, LNCS Volume 11764](https://link.springer.com/book/10.1007/978-3-030-32239-7#volumes) Optical Imaging; Endoscopy; Microscopy 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -22,7 +22,7 @@
 
 
 
-## [Part II, LNCS Volume 11765](https://link.springer.com/book/10.1007/978-3-030-32245-8): Image Segmentation; Image Registration; Cardiovascular Imaging; Growth, Development, Atrophy, and Progression 
+## [Part II, LNCS Volume 11765](https://link.springer.com/book/10.1007/978-3-030-32245-8) Image Segmentation; Image Registration; Cardiovascular Imaging; Growth, Development, Atrophy, and Progression 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -42,7 +42,7 @@
 |Disease Knowledge Transfer Across Neurodegenerative Diseases|R˘azvan V. Marinescu|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_95)|[Code](https://github.com/mrazvan22/dkt)|
 
 
-## [Part III, LNCS Volume 11766](https://link.springer.com/book/10.1007/978-3-030-32248-9): Neuroimage Reconstruction and Synthesis; Neuroimage Segmentation; Diffusion-Weighted Magnetic Resonance Imaging; Functional Neuroimaging (fMRI); Miscellaneous Neuroimaging
+## [Part III, LNCS Volume 11766](https://link.springer.com/book/10.1007/978-3-030-32248-9) Neuroimage Reconstruction and Synthesis; Neuroimage Segmentation; Diffusion-Weighted Magnetic Resonance Imaging; Functional Neuroimaging (fMRI); Miscellaneous Neuroimaging
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -60,16 +60,16 @@
 |DeepTract: A Probabilistic Deep Learning Framework for White Matter Fiber Tractography|Itay Benou|[LNCS](https://doi.org/10.1007/978-3-030-32248-9_70)|[Code](https://github.com/itaybenou/DeepTract.git)|
 
 
-## [Part IV, LNCS Volume 11767](https://link.springer.com/book/10.1007/978-3-030-32251-9): Shape; Prediction; Detection and Localization; MachineLearning;Computer-AidedDiagnosis;ImageReconstructionandSynthesis 
+## [Part IV, LNCS Volume 11767](https://link.springer.com/book/10.1007/978-3-030-32251-9) Shape; Prediction; Detection and Localization; Machine Learning; Computer-Aided Diagnosis; Image Reconstruction and Synthesis 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
+|Multiple Landmark Detection Using Multi-agent Reinforcement Learning|Athanasios Vlontzos|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_29)|[Code](https://github.com/thanosvlo/MARL-for-Anatomical-Landmark-Detection)|
+|Unsupervised Anomaly Localization Using Variational Auto-Encoders|David Zimmerer|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_32)|[Code](https://github.com/MIC-DKFZ/vae-anomaly-experiments)|
+|Multi-stage Prediction Networks for Data Harmonization|Stefano B. Blumberg|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_45)|[Code](https://github.com/sbb-gh/)|
+|Bayesian Volumetric Autoregressive Generative Models for Better Semisupervised Learning|Guilherme Pombo|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_47)|[Code](https://github.com/guilherme-pombo/3DPixelCNN)|
+|Overcoming Data Limitation in Medical Visual Question Answering|Binh D. Nguyen|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_57)|[Code](https://github.com/aioz-ai/MICCAI19-MedVQA)|
+|VS-Net: Variable Splitting Network for Accelerated Parallel MRI Reconstruction|Jinming Duan|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_78)|[Code](https://github.com/j-duan/VS-Net)|
 
 ## [Part V, LNCS Volume 11768](https://link.springer.com/book/10.1007/978-3-030-32254-0): Computer-Assisted Interventions; MIC Meets CAI 
 
@@ -79,17 +79,18 @@
 |||[LNCS]()|[Code]()|
 |||[LNCS]()|[Code]()|
 |||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
+|||[LNCS]()|[Code]()|
 
 
-## Part VI, [LNCS Volume 11769](): Computed Tomography; X-ray Imaging
+## [Part VI, LNCS Volume 11769](): Computed Tomography; X-ray Imaging
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
 |||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
-|||[LNCS]()|[Code]()|
+
 
 **Any contributations are welcome! Such as arxiv PDF link, new released code and so on.**
