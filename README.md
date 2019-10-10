@@ -12,16 +12,16 @@
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
-|‘Project & Excite’ Modules for Segmentation of Volumetric Medical Scans|Anne-Marie Rickmann|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_5)|[Code](https://github.com/ai-med/squeeze and excitation)|
+|‘Project & Excite’ Modules for Segmentation of Volumetric Medical Scans|Anne-Marie Rickmann|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_5)|[Code](https://github.com/ai-med/squeeze_and_excitation)|
 |Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation|Alain Jungo|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_6)|[Code](https://github.com/alainjungo/reliability-challenges-uncertainty)|
 |Extreme Points Derived Conﬁdence Map as a Cue for Class-Agnostic Interactive Segmentation Using Deep Neural Network|Shadab Khan|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_8)|[Code](https://github.com/ahmedshahin9/AssistedAnnotator)|
 |Instance Segmentation from Volumetric Biomedical Images Without Voxel-Wise Labeling|Meng Dong|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_10)|[Code](https://braindata.bitahub.com/)|
 |PHiSeg: Capturing Uncertainty in Medical Image Segmentation|Christian F. Baumgartner|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_14)|[Code](https://github.com/baumgach/PHiSeg-code)|
 |Automatic Segmentation of Vestibular Schwannoma from T2-Weighted MRI by Deep Spatial Attention with Hardness-Weighted Loss|Guotai Wang|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_30)|[Code](https://github.com/NifTK/VSSegmentation)|
-|Learning Shape Representation on Sparse Point Clouds for Volumetric Image Segmentation||[LNCS](https://doi.org/10.1007/978-3-030-32245-8_31)|[Code](https://github.com/fabianbalsiger/point-cloud-segmentation-miccai2019)|
-|3D U2-Net: A 3D Universal U-Net for Multi-domain Medical Image Segmentation|Chao Huang|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_33)|[Code](https:// github.com/huangmozhilv/u2net torch/)|
-|Constrained Domain Adaptation for Segmentation|Mathilde Bateson|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_37)|[Code]( https://github.com/CDAMICCAI2019/CDA)|
-|Curriculum Semi-supervised Segmentation|Hoel Kervadec|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_63)|[Code](https://github.com/LIVIAETS/semi curriculum)|
+|Learning Shape Representation on Sparse Point Clouds for Volumetric Image Segmentation|Fabian Balsiger|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_31)|[Code](https://github.com/fabianbalsiger/point-cloud-segmentation-miccai2019)|
+|3D U2-Net: A 3D Universal U-Net for Multi-domain Medical Image Segmentation|Chao Huang|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_33)|[Code](https://github.com/huangmozhilv/u2net torch/)|
+|Constrained Domain Adaptation for Segmentation|Mathilde Bateson|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_37)|[Code](https://github.com/CDAMICCAI2019/CDA)|
+|Curriculum Semi-supervised Segmentation|Hoel Kervadec|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_63)|[Code](https://github.com/LIVIAETS/semi_curriculum)|
 |Uncertainty-Aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation|Lequan Yu|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_67)|[Code](https://github.com/yulequan/UA-MT)|
 |Deep Probabilistic Modeling of Glioma Growth|Jens Petersen|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_89)|[Code](https://github.com/jenspetersen/probabilistic-unet)|
 |Variational AutoEncoder for Regression: Application to Brain Aging Analysis|Qingyu Zhao|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_91)|[Code](https://github.com/QingyuZhao/VAE-for-Regression)|
