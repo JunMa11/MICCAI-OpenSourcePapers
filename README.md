@@ -71,7 +71,7 @@
 |Overcoming Data Limitation in Medical Visual Question Answering|Binh D. Nguyen|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_57)|[Code](https://github.com/aioz-ai/MICCAI19-MedVQA)|
 |VS-Net: Variable Splitting Network for Accelerated Parallel MRI Reconstruction|Jinming Duan|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_78)|[Code](https://github.com/j-duan/VS-Net)|
 
-## [Part V, LNCS Volume 11768](https://link.springer.com/book/10.1007/978-3-030-32254-0): Computer-Assisted Interventions; MIC Meets CAI 
+## [Part V, LNCS Volume 11768](https://link.springer.com/book/10.1007/978-3-030-32254-0) Computer-Assisted Interventions; MIC Meets CAI 
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
@@ -86,7 +86,7 @@
 
 
 
-## [Part VI, LNCS Volume 11769](): Computed Tomography; X-ray Imaging
+## [Part VI, LNCS Volume 11769-TBD]() Computed Tomography; X-ray Imaging
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
