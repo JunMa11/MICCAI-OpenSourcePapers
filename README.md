@@ -41,8 +41,8 @@
 |Variational AutoEncoder for Regression: Application to Brain Aging Analysis|Qingyu Zhao|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_91)|[Code](https://github.com/QingyuZhao/VAE-for-Regression)|
 |Disease Knowledge Transfer Across Neurodegenerative Diseases|R˘azvan V. Marinescu|[LNCS](https://doi.org/10.1007/978-3-030-32245-8_95)|[Code](https://github.com/mrazvan22/dkt)|
 |One Network to Segment Them All: A General, Lightweight System for Accurate 3D Medical Image Segmentation|Mathias Perslev|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_4)|[TF](https://github.com/perslev/MultiPlanarUNet)|
-
-
+|Recursive Cascaded Networks for Unsupervised Medical Image Registration|Shengyu Zhao|[PDF](https://arxiv.org/pdf/1907.12353)|[Code](https://github.com/microsoft/Recursive-Cascaded-Networks)|
+|Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks|Mattias P. Heinrich|[PDF](https://arxiv.org/abs/1907.10931v1)|[Code](https://github.com/multimodallearning/pdd_net)|
 
 ## [Part III, LNCS Volume 11766](https://link.springer.com/book/10.1007/978-3-030-32248-9) Neuroimage Reconstruction and Synthesis; Neuroimage Segmentation; Diffusion-Weighted Magnetic Resonance Imaging; Functional Neuroimaging (fMRI); Miscellaneous Neuroimaging
 
