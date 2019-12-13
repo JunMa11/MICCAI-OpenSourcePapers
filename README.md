@@ -88,11 +88,10 @@
 
 
 
-## [Part VI, LNCS Volume 11769-TBD]() Computed Tomography; X-ray Imaging
 
 |Title|First Author|PDF|Code|
 |---|---|---|---|
-|||[LNCS]()|[Code]()|
+|ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction|Haofu Liao|[MICCAI&TMI](https://arxiv.org/abs/1908.01104)|[pytorch](https://github.com/liaohaofu/adn)|
 |||[LNCS]()|[Code]()|
 
 **Any contributations are welcome! Such as arxiv PDF link, new released code and so on.**
