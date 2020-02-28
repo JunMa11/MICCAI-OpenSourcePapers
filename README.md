@@ -92,6 +92,6 @@
 |Title|First Author|PDF|Code|
 |---|---|---|---|
 |ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction|Haofu Liao|[MICCAI&TMI](https://arxiv.org/abs/1908.01104)|[pytorch](https://github.com/liaohaofu/adn)|
-|Adversarial Regression Training for Visualizing the Progression of Chronic Obstructive Pulmonary Disease with Chest X-Rays|Ricardo Bigolin Lanfredi|[LNCS](doi.org/10.1007/978-3-030-32226-7_76)|[Code](https://github.com/ricbl/vrgan)|
+|Adversarial Regression Training for Visualizing the Progression of Chronic Obstructive Pulmonary Disease with Chest X-Rays|Ricardo Bigolin Lanfredi|[LNCS](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_76)|[Code](https://github.com/ricbl/vrgan)|
 
 **Any contributations are welcome! Such as arxiv PDF link, new released code and so on.**
