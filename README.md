@@ -74,6 +74,7 @@
 |Overcoming Data Limitation in Medical Visual Question Answering|Binh D. Nguyen|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_57)|[Code](https://github.com/aioz-ai/MICCAI19-MedVQA)|
 |VS-Net: Variable Splitting Network for Accelerated Parallel MRI Reconstruction|Jinming Duan|[LNCS](https://doi.org/10.1007/978-3-030-32251-9_78)|[Code](https://github.com/j-duan/VS-Net)|
 |Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis|Zongwei Zhou|[PDF](http://www.cs.toronto.edu/~liang/Publications/ModelsGenesis/MICCAI_2019_Full.pdf)|[Keras](https://github.com/MrGiovanni/ModelsGenesis)|
+|Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classification|[Christoph Haarburger](https://scholar.google.com.hk/citations?user=Lb8DcccAAAAJ&hl=en&oi=sra)|[LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_54), [arXiv](https://arxiv.org/abs/1906.06058)|[PyTorch](https://github.com/haarburger/multi-scale-curriculum)|
 
 ## [Part V, LNCS Volume 11768](https://link.springer.com/book/10.1007/978-3-030-32254-0) Computer-Assisted Interventions; MIC Meets CAI 
 
