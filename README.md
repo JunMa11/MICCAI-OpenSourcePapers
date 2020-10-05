@@ -67,36 +67,19 @@
 
 
 
-| Title | First Author | PDF                                                         | Code     |
-| ----- | ------------ | ----------------------------------------------------------- | -------- |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-
-
-
+| Title                                                        | First Author      | PDF                                                  | Code                                                         |
+| ------------------------------------------------------------ | ----------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision | Julia Wolleb      | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_2)  | [Code](https://github.com/JuliaWolleb/DeScarGAN)             |
+| Learning Directional Feature Maps for Cardiac MRI Segmentation | Feng Cheng        | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_11) | [Code](https://github.com/c-feng/DirectionalFeature)         |
+| Uncertainty-Guided Efficient Interactive Refinement of Fetal Brain Segmentation from Stacks of MRI Slices | Guotai Wang       | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_28) | [Code](https://github.com/HiLab-git/UGIR)                    |
+| Defending Deep Learning-Based Biomedical Image Segmentation from Adversarial Attacks: A Low-Cost Frequency Refinement Approach | Qi Liu            | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_34) | [Code](https://github.com/qiliu08/frequency-refinement-defense) |
+| Asymmetrical Multi-task Attention U-Net for the Segmentation of Prostate Bed in CT Image | Xuanang Xu        | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_46) | [Code](https://github.com/superxuang/amta-net)               |
+| Generation of Annotated Brain Tumor MRIs with Tumor-induced Tissue Deformations for Training and Assessment of Neural Networks | Hristina Uzunova  | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_49) | [Code](https://github.com/hristina-uzunova/TumorMassEffect)  |
+| AlignShift: Bridging the Gap of Imaging Thickness in 3D Anisotropic Volumes | Jiancheng Yang    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_55) | [Code](https://github.<br/>com/M3DV/AlignShift)              |
+| Automated Detection of Cortical Lesions in Multiple Sclerosis Patients with 7T MRI | Francesco La Rosa | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_57) | [Code](https://github.com/Medical-Image-Analysis-Laboratory) |
+| Miss the Point: Targeted Adversarial Attack on Multiple Landmark Detection | Qingsong Yao      | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_67) | [Code](https://github.com/qsyao/attack landmark detection)   |
+| Non-Rigid Volume to Surface Registration Using a Data-Driven Biomechanical Model | Micha Pfeiffer    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_70) | [Code](https://gitlab.com/nct tso public/Volume2SurfaceCNN)  |
+| A Kernelized Multi-level Localization Method for Flexible Shape Modeling with Few Training Data | Matthias Wilms    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_74) | [Code](https://github.com/wilmsm/localizedssm)               |
 
 
 ## [Part V, LNCS Volume 12265: Biological, Optical and Microscopic Image Analysis](https://link.springer.com/book/10.1007/978-3-030-59722-1)
