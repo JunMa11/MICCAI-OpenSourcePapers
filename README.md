@@ -9,8 +9,8 @@
 | Learning Semantics-Enriched Representation via Self-discovery, Self-classification, and Self-restoration | Fatemeh Haghighi       | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_14) | [Code](https://github.com/JLiangLab/SemanticGenesis)         |
 | NAS-SCAM: Neural Architecture Search-Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification | Zuhao Liu              | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_26) | [Code](https://github.com/ZuhaoLiu/NAS-SCAM)                 |
 | Encoding Visual Attributes in Capsules for Explainable Medical Diagnoses | Rodney LaLonde         | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_29) | [Code](https://github.com/lalonderodney/X-Caps)              |
-| Interpretability-Guided Content-Based Medical Image Retrieval | Wilson Silva           | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_30) | [Code](https://github.com/wjsilva19/ig cbir)                 |
-| Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations | Hong-Yu Zhou           | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_39) | [Code](https://github.com/funnyzhou/C2L MICCAI2020)          |
+| Interpretability-Guided Content-Based Medical Image Retrieval | Wilson Silva           | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_30) | [Code](https://github.com/wjsilva19/ig_cbir)                 |
+| Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations | Hong-Yu Zhou           | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_39) | [Code](https://github.com/funnyzhou/C2L_MICCAI2020)          |
 | Scribble-Based Domain Adaptation via Co-segmentation         | Reuben Dorent          | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_47) | [Code](https://github.com/KCL-BMEIS/ScribbleDA)              |
 | Source-Relaxed Domain Adaptation for Image Segmentation      | Mathilde Bateson       | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_48) | [Code](https://github.com/mathilde-b/SRDA)                   |
 | Region-of-Interest Guided Supervoxel Inpainting for Self-supervision | Subhradeep Kayal       | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_49) | [Code](https://github.com/DeepK/inpainting)                  |
@@ -20,11 +20,7 @@
 | Self-supervised Depth Estimation to Regularise Semantic Segmentation in Knee Arthroscopy | Fengbei Liu            | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_58) | [Code](https://github.com/ThomasLiu1021/geo-sem)             |
 | Semi-supervised Medical Image Classification with Global Latent Mixing | Prashnna Kumar Gyawali | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_59) | [Code](https://github.com/Prasanna1991/LatentMixing)         |
 | Efficient Shapley Explanation for Features Importance Estimation Under Uncertainty | Xiaoxiao Li            | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_77) | [Code](https://github.com/xxlya/DistDeepSHAP)                |
-|                                                              |                        | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                        | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                        |                                                      |                                                              |
-|                                                              |                        | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                        |                                                      |                                                              |
+
 
 ## [Part II, LNCS Volume 12262: Image Reconstruction and Machine Learning]()
 
@@ -37,17 +33,12 @@
 | 3d-SMRnet: Achieving a New Quality of MPI System Matrix Recovery by Deep Learning | Ivo M. Baltruschat       | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_8)  | [Code](https://github.com/Ivo-B/3dSMRnet)                    |
 | Learned Proximal Networks for Quantitative Susceptibility Mapping | Kuo-Wei Lai              | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_13) | [Code](https://github.com/Sulam-Group)                       |
 | Geodesically Smoothed Tensor Features for Pulmonary Hypertension Prognosis Using the Heart and Surrounding Tissues | Johanna Uthoff           | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_25) | [Code](https://github.com/pykale)                            |
-| Unlearning Scanner Bias for MRI Harmonisation                | Nicola K. Dinsdale       | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_36) | [Code](https://github.com/nkdinsdale/Unlearning for MRI harmonisation) |
+| Unlearning Scanner Bias for MRI Harmonisation                | Nicola K. Dinsdale       | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_36) | [Code](https://github.com/nkdinsdale/Unlearning_for_MRI_harmonisation) |
 | Self-supervised Skull Reconstruction in Brain CT Images with Decompressive Craniectomy | Franco Matzkin           | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_38) | [Code](http://gitlab.com/matzkin/deep-brain-extractor)       |
 | Shape-Aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains | Quande Liu               | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_46) | [Code](https://github.com/liuquande/SAML)                    |
-| Joint Modeling of Chest Radiographs and Radiology Reports for Pulmonary Edema Assessment | Geeticka Chauhan         | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_51) | [Code](https://github.com/RayRuizhiLiao/joint chestxray)     |
+| Joint Modeling of Chest Radiographs and Radiology Reports for Pulmonary Edema Assessment | Geeticka Chauhan         | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_51) | [Code](https://github.com/RayRuizhiLiao/joint_chestxray)     |
 | Large-Scale Inference of Liver Fat with Neural Networks on UK Biobank Body MRI | Taro Langner             | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_58) | [Code](https://github.com/tarolangner/mri-biometry)          |
 | Interpretation of Disease Evidence for Medical Images Using Adversarial Deformation Fields | Ricardo Bigolin Lanfredi | [LNCS](https://doi.org/10.1007/978-3-030-59713-9_71) | [Code](https://github.com/ricbl/defigan)                     |
-|                                                              |                          | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                          |                                                      |                                                              |
-|                                                              |                          | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                          | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                          | [LNCS]()                                             | [Code]()                                                     |
 
 
 
@@ -58,7 +49,7 @@
 | Title | First Author | PDF                                                         | Code     |
 | ----- | ------------ | ----------------------------------------------------------- | -------- |
 |       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()[LNCS](https://doi.org/10.1007/978-3-030-59710-8_8) | [Code]() |
+|       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
@@ -93,7 +84,6 @@
 | Title | First Author | PDF                                                         | Code     |
 | ----- | ------------ | ----------------------------------------------------------- | -------- |
 |       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()[LNCS](https://doi.org/10.1007/978-3-030-59710-8_8) | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
@@ -130,7 +120,6 @@
 | Title | First Author | PDF                                                         | Code     |
 | ----- | ------------ | ----------------------------------------------------------- | -------- |
 |       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()[LNCS](https://doi.org/10.1007/978-3-030-59710-8_8) | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
@@ -165,7 +154,6 @@
 | Title | First Author | PDF                                                         | Code     |
 | ----- | ------------ | ----------------------------------------------------------- | -------- |
 |       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()[LNCS](https://doi.org/10.1007/978-3-030-59710-8_8) | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
@@ -200,7 +188,6 @@
 | Title | First Author | PDF                                                         | Code     |
 | ----- | ------------ | ----------------------------------------------------------- | -------- |
 |       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()[LNCS](https://doi.org/10.1007/978-3-030-59710-8_8) | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
 |       |              | [LNCS]()                                                    | [Code]() |
@@ -232,4 +219,4 @@
 
 
 
-**Any contributions are welcome! Such as arxiv PDF link, new released code and so on.**
+**Any contributions are welcome, e.g., new released paper and code.**
