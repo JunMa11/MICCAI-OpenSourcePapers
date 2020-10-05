@@ -46,34 +46,21 @@
 
 
 
-| Title | First Author | PDF                                                         | Code     |
-| ----- | ------------ | ----------------------------------------------------------- | -------- |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
+| Title                                                        | First Author          | PDF                                                  | Code                                                         |
+| ------------------------------------------------------------ | --------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| Reconstructing Sinus Anatomy from Endoscopic Video – Towards a Radiation-Free Approach for Quantitative Longitudinal Assessment | Xingtong Liu          | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_1)  | [Code](https://github.com/lppllppl920/DenseReconstruction-Pytorch) |
+| Simulation of Brain Resection for Cavity Segmentation Using Self-supervised and Semi-supervised Learning | Fernando Pérez-Garcı́a | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_12) | [Code](https://github.com/fepegar/resector)                  |
+| MvMM-RegNet: A New Image Registration Framework Based on Multivariate Mixture Model and Neural Network Estimation | Xinzhe Luo            | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_15) | [Code](https://zmiclab.github.io/projects.html)              |
+| Highly Accurate and Memory Efficient Unsupervised Learning-Based Discrete CT Registration Using 2.5D Displacement Search | Mattias P. Heinrich   | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_19) | [Code](https://github.com/multimodallearning/pdd2.5/)        |
+|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
+|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
+|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
+|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
+|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
+|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
+|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
+|                                                              |                       |                                                      |                                                              |
+
 
 
 
