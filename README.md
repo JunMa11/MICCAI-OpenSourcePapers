@@ -60,7 +60,7 @@
 | Vision-Based Estimation of MDS-UPDRS Gait Scores for Assessing Parkinson’s Disease Motor Severity | Mandy Lu              | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_61) | [Code](https://github.com/mlu355/PD-Motor-Severity-Estimation) |
 | Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels | Tianyu Wang           | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_64) | [Code](https://github.com/gunnerwang/MTL-VF-and-IMTL-AGF)    |
 | Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video | Zixu Zhao             | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_65) | [Code](https://github.com/zxzhaoeric/Semi-InstruSeg)         |
-| Rethinking Anticipation Tasks: Uncertainty-Aware Anticipation of Sparse Surgical Instrument Usage for Context-Aware Assistance | Dominik Rivoir        | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_72) | [Code](https://www.gitlab.com/nct tso public/ins_ant)        |
+| Rethinking Anticipation Tasks: Uncertainty-Aware Anticipation of Sparse Surgical Instrument Usage for Context-Aware Assistance | Dominik Rivoir        | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_72) | [Code](https://www.gitlab.com/nct_tso_public/ins_ant)        |
 
 
 ## [Part IV, LNCS Volume 12264: Segmentation and Shape Analysis](https://link.springer.com/book/10.1007/978-3-030-59719-1)
@@ -77,8 +77,8 @@
 | Generation of Annotated Brain Tumor MRIs with Tumor-induced Tissue Deformations for Training and Assessment of Neural Networks | Hristina Uzunova  | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_49) | [Code](https://github.com/hristina-uzunova/TumorMassEffect)  |
 | AlignShift: Bridging the Gap of Imaging Thickness in 3D Anisotropic Volumes | Jiancheng Yang    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_55) | [Code](https://github.<br/>com/M3DV/AlignShift)              |
 | Automated Detection of Cortical Lesions in Multiple Sclerosis Patients with 7T MRI | Francesco La Rosa | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_57) | [Code](https://github.com/Medical-Image-Analysis-Laboratory) |
-| Miss the Point: Targeted Adversarial Attack on Multiple Landmark Detection | Qingsong Yao      | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_67) | [Code](https://github.com/qsyao/attack landmark detection)   |
-| Non-Rigid Volume to Surface Registration Using a Data-Driven Biomechanical Model | Micha Pfeiffer    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_70) | [Code](https://gitlab.com/nct tso public/Volume2SurfaceCNN)  |
+| Miss the Point: Targeted Adversarial Attack on Multiple Landmark Detection | Qingsong Yao      | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_67) | [Code](https://github.com/qsyao/attack_landmark_detection)   |
+| Non-Rigid Volume to Surface Registration Using a Data-Driven Biomechanical Model | Micha Pfeiffer    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_70) | [Code](https://gitlab.com/nct_tso_public/Volume2SurfaceCNN)  |
 | A Kernelized Multi-level Localization Method for Flexible Shape Modeling with Few Training Data | Matthias Wilms    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_74) | [Code](https://github.com/wilmsm/localizedssm)               |
 
 
