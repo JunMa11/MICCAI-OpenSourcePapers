@@ -1,6 +1,8 @@
 # MICCAI 2020 Open Source Papers
 
-## [Part I, LNCS Volume 12261: Machine Learning Methodologies]() 
+## [Part I, LNCS Volume 12261: Machine Learning Methodologies](https://link.springer.com/book/10.1007/978-3-030-59710-8) 
+
+> 16/81
 
 | Title                                                        | First Author           | PDF                                                  | Code                                                         |
 | ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
