@@ -22,7 +22,7 @@
 | Efficient Shapley Explanation for Features Importance Estimation Under Uncertainty | Xiaoxiao Li            | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_77) | [Code](https://github.com/xxlya/DistDeepSHAP)                |
 
 
-## [Part II, LNCS Volume 12262: Image Reconstruction and Machine Learning]()
+## [Part II, LNCS Volume 12262: Image Reconstruction and Machine Learning](https://link.springer.com/book/10.1007/978-3-030-59713-9)
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-## Part III, LNCS Volume 12263: Computer Aided Intervention, Ultrasound and Image Registration
+## [Part III, LNCS Volume 12263: Computer Aided Intervention, Ultrasound and Image Registration](https://link.springer.com/book/10.1007/978-3-030-59716-0)
 
 
 
@@ -77,7 +77,7 @@
 
 
 
-## Part IV, LNCS Volume 12264: Segmentation and Shape Analysis
+## [Part IV, LNCS Volume 12264: Segmentation and Shape Analysis](https://link.springer.com/book/10.1007/978-3-030-59719-1)
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-## Part V, LNCS Volume 12265: Biological, Optical and Microscopic Image Analysis
+## [Part V, LNCS Volume 12265: Biological, Optical and Microscopic Image Analysis](https://link.springer.com/book/10.1007/978-3-030-59722-1)
 
 
 
@@ -147,7 +147,7 @@
 
 
 
-## Part VI, LNCS Volume 12266: Clinical Applications
+## [Part VI, LNCS Volume 12266: Clinical Applications](https://link.springer.com/book/10.1007/978-3-030-59725-2)
 
 
 
@@ -181,7 +181,7 @@
 
 
 
-## Part VII, LNCS Volume 12267: Neurological Imaging and PET  
+## [Part VII, LNCS Volume 12267: Neurological Imaging and PET](https://link.springer.com/book/10.1007/978-3-030-59728-3)  
 
 
 
