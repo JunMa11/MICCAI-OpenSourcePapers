@@ -52,16 +52,15 @@
 | Simulation of Brain Resection for Cavity Segmentation Using Self-supervised and Semi-supervised Learning | Fernando Pérez-Garcı́a | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_12) | [Code](https://github.com/fepegar/resector)                  |
 | MvMM-RegNet: A New Image Registration Framework Based on Multivariate Mixture Model and Neural Network Estimation | Xinzhe Luo            | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_15) | [Code](https://zmiclab.github.io/projects.html)              |
 | Highly Accurate and Memory Efficient Unsupervised Learning-Based Discrete CT Registration Using 2.5D Displacement Search | Mattias P. Heinrich   | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_19) | [Code](https://github.com/multimodallearning/pdd2.5/)        |
-|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                       | [LNCS]()                                             | [Code]()                                                     |
-|                                                              |                       |                                                      |                                                              |
-
-
+| Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration | Cong Gao              | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_32) | [Code](https://github.com/gaocong13/Projective-Spatial-Transformers) |
+| TeCNO: Surgical Phase Recognition with Multi-stage Temporal Convolutional Networks | Tobias Czempiel       | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_33) | [Code](https://github.com/tobiascz/TeCNO/)                   |
+| AutoSNAP: Automatically Learning Neural Architectures for Instrument Pose Estimation | David Kugler          | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_36) | [Code](https://github.com/MECLabTUDA/AutoSNAP)               |
+| Sensorless Freehand 3D Ultrasound Reconstruction via Deep Contextual Learning | Hengtao Guo           | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_44) | [Code](https://github.com/DIAL-RPI/FreehandUSRecon)          |
+| ISINet: An Instance-Based Approach for Surgical Instrument Segmentation | Cristina Gonza'lez    | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_57) | [Code](https://github.com/BCV-Uniandes/ISINet)               |
+| Vision-Based Estimation of MDS-UPDRS Gait Scores for Assessing Parkinson’s Disease Motor Severity | Mandy Lu              | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_61) | [Code](https://github.com/mlu355/PD-Motor-Severity-Estimation) |
+| Towards Accurate and Interpretable Surgical Skill Assessment: A Video-Based Method Incorporating Recognized Surgical Gestures and Skill Levels | Tianyu Wang           | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_64) | [Code](https://github.com/gunnerwang/MTL-VF-and-IMTL-AGF)    |
+| Learning Motion Flows for Semi-supervised Instrument Segmentation from Robotic Surgical Video | Zixu Zhao             | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_65) | [Code](https://github.com/zxzhaoeric/Semi-InstruSeg)         |
+| Rethinking Anticipation Tasks: Uncertainty-Aware Anticipation of Sparse Surgical Instrument Usage for Context-Aware Assistance | Dominik Rivoir        | [LNCS](https://doi.org/10.1007/978-3-030-59716-0_72) | [Code](https://www.gitlab.com/nct tso public/ins_ant)        |
 
 
 ## [Part IV, LNCS Volume 12264: Segmentation and Shape Analysis](https://link.springer.com/book/10.1007/978-3-030-59719-1)
