@@ -114,33 +114,21 @@
 
 
 
-| Title | First Author | PDF                                                         | Code     |
-| ----- | ------------ | ----------------------------------------------------------- | -------- |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
+| Title                                                        | First Author        | PDF                                                  | Code                                                         |
+| ------------------------------------------------------------ | ------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| Branch-Aware Double DQN for Centerline Extraction in Coronary CT Angiography | Yuyang Zhang        | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_4)  | [Code](https://github.com/514sz/Branch-aware-centerline-extraction) |
+| Automated Intracranial Artery Labeling Using a Graph Neural Network and Hierarchical Refinement | Li Chen             | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_8)  | [Code](https://github.com/clatfd/GNN-ART-LABEL)              |
+| Adaptive Context Selection for Polyp Segmentation            | Ruifei Zhang        | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_25) | [Code](https://github.com/ReaFly/ACSNet)                     |
+| Data-Driven Multi-contrast Spectral Microstructure Imaging with InSpect | Paddy J. Slator     | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_36) | [Code](https://github.com/PaddySlator/inspect)               |
+| Region Proposals for Saliency Map Refinement for Weakly-Supervised Disease Localisation and Classification | Renato Hermoza      | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_52) | [Code](https://github.com/renato145/RpSalWeaklyDet)          |
+| Class-Aware Multi-window Adversarial Lung Nodule Synthesis Conditioned on Semantic Features | Qiuli Wang          | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_57) | [Code](https://github.com/qiuliwang/CA-MW-Adversarial-Synthesis) |
+| SIMBA: Specific Identity Markers for Bone Age Assessment     | Cristina Gonz´ alez | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_73) | [Code](https://github.com/BCV-Uniandes/SIMBA)                |
+| Time Matters: Handling Spatio-Temporal Perfusion Information for Automated TICI Scoring | Maximilian Nielsen  | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_9)  | [Code](https://github.com/autoTICI)                          |
+| Decoupling Inherent Risk and Early Cancer Signs in Image-Based Breast Cancer Risk Models | Yue Liu             | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_23) | [Code](https://github.com/yueliukth/decoupling_breast_cancer_risk) |
+| PraNet: Parallel Reverse Attention Network for Polyp Segmentation | Deng-Ping Fan       | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_26) | [Code](https://github.com/DengPingFan/PraNet)                |
+| Few-Shot Anomaly Detection for Polyp Frames from Colonoscopy | Yu Tian             | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_27) | [Code](https://github.com/tianyu0207/FSAD-Net)               |
+| Keypoints Localization for Joint Vertebra Detection and Fracture Severity Quantification | Maxim Pisov         | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_70) | [Code](https://github.com/neuro-ml/vertebral-fractures-severity) |
+| Generative Modelling of 3D In-Silico Spongiosa with Controllable Micro-structural Parameters | Emmanuel Iarussi    | [LNCS](https://doi.org/10.1007/978-3-030-59725-2_76) | [Code](http://github.com/emmanueliarussi/generative3DSpongiosa) |
 
 
 
