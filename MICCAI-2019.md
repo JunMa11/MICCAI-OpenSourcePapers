@@ -97,11 +97,11 @@
 |ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction|Haofu Liao|[MICCAI&TMI](https://arxiv.org/abs/1908.01104)|[pytorch](https://github.com/liaohaofu/adn)|
 |Adversarial Regression Training for Visualizing the Progression of Chronic Obstructive Pulmonary Disease with Chest X-Rays|Ricardo Bigolin Lanfredi|[LNCS](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_76)|[Code](https://github.com/ricbl/vrgan)|
 |NoduleNet: Decoupled False Positive Reduction for Pulmonary Nodule Detection and Segmentation |Hao Tang|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_30)|[Code]( https://github.com/uci-cbcl/NoduleNet)|
-|Attentive CT Lesion Detection Using Deep Pyramid Inference with Multi-scale Booster |Qingbin Shao|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_34)|[Code]( https://github.com/shaoqb/multi scale booster)|
+|Attentive CT Lesion Detection Using Deep Pyramid Inference with Multi-scale Booster |Qingbin Shao|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_34)|[Code]( https://github.com/shaoqb/multi_scale_booster)|
 |Misshapen Pelvis Landmark Detection by Spatial Local Correlation Mining for Diagnosing Developmental Dysplasia of the Hip |Chuanbin Liu|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_49)|[Code](https://github.com/liuboss1992/FR-DDH )|
 |Adversarial Policy Gradient for Deep Learning Image Augmentation |Kaiyang Cheng|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_50)|[Code](https://github.com/victorychain/Adversarial-Policy-Gradient-Augmentation )|
-|Anatomical Priors for Image Segmentation via Post-processing with Denoising Autoencoders |Agostina J. Larrazabal|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_65)|[Code]( https://github.com/dgriffiths3/ml segmentation)|
-|How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning |Maximilian Blendowski|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_72)|[Code](https://github.com/multimodallearning/miccai19 self supervision)|
+|Anatomical Priors for Image Segmentation via Post-processing with Denoising Autoencoders |Agostina J. Larrazabal|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_65)|[Code]( https://github.com/dgriffiths3/ml_segmentation)|
+|How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning |Maximilian Blendowski|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_72)|[Code](https://github.com/multimodallearning/miccai19_self_supervision)|
 |Extract Bone Parts Without Human Prior: End-to-end Convolutional Neural Network for Pediatric Bone Age Assessment |Chuanbin Liu|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_74)|[Code](https://github.com/liuboss1992/AR-CNN)|
 |Adversarial Regression Training for Visualizing the Progression of Chronic Obstructive Pulmonary Disease with Chest X-Rays |Ricardo Bigolin Lanfredi|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_76)|[Code](https://github.com/ricbl/vrgan)|
 
