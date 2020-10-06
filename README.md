@@ -88,33 +88,25 @@
 
 
 
-| Title | First Author | PDF                                                         | Code     |
-| ----- | ------------ | ----------------------------------------------------------- | -------- |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
+| Title                                                        | First Author         | PDF                                                  | Code                                                         |
+| ------------------------------------------------------------ | -------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| Demixing Calcium Imaging Data in C. elegans via Deformable Non-negative Matrix Factorization | Amin Nejatbakhsh     | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_2)  | [Code](https://github.com/amin-nejat/dNMF)                   |
+| MitoEM Dataset: Large-Scale 3D Mitochondria Instance Segmentation from EM Images | Donglai Wei          | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_7)  | [Code](https://donglaiw.github.io/page/mitoEM/index.html)    |
+| Microtubule Tracking in Electron Microscopy Volumes          | Nils Eckstein        | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_10) | [Code](https://github.com/nilsec/micron)                     |
+| Statistical Atlas of C. elegans Neurons                      | Erdem Varol          | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_12) | [Code](https://github.com/amin-nejat/StatAtlas)              |
+| Probabilistic Joint Segmentation and Labeling of C. elegans Neurons | Amin Nejatbakhsh     | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_13) | [Code](https://github.com/amin-nejat/SinkhornEM)             |
+| Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution | Zhen Chen            | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_18) | [Code](https://github.com/franciszchen/SWD-Net)              |
+| Towards Neuron Segmentation from Macaque Brain Images: A Weakly Supervised Approach | Meng Dong            | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_19) | [Code](https://braindata.bitahub.com/)                       |
+| 3D Reconstruction and Segmentation of Dissection Photographs for MRI-Free Neuropathology | Henry F. J. Tregidgo | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_20) | [Code](https://github.com/htregidgo/DissectionPhotoVolumes)  |
+| Boundary-Assisted Region Proposal Networks for Nucleus Segmentation | Shengcong Chen       | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_27) | [Code](https://github.com/csccsccsccsc/brpnet)               |
+| Weakly-Supervised Nucleus Segmentation Based on Point Annotations: A Coarse-to-Fine Self-Stimulated Learning Strategy | Kuan Tian            | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_29) | [Code](https://github.com/tiankuan93/C2FNet)                 |
+| Self-supervised Nuclei Segmentation in Histopathological Images Using Attention | Mihir Sahasrabudhe   | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_38) | [Code](https://github.com/msahasrabudhe/miccai2020_self_sup_nuclei_seg) |
+| Renal Cell Carcinoma Detection and Subtyping with Minimal Point-Based Annotation in Whole-Slide Images | Zeyu Gao             | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_42) | [Code](https://gitlab.com/BioAI/RCC_DS)                      |
+| Tracing Diagnosis Paths on Histopathology WSIs for Diagnostically Relevant Case Recommendation | Yushan Zheng         | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_44) | [Code](https://github.com/Zhengyushan/dpathnet)              |
+| Weakly Supervised Multiple Instance Learning Histopathological Tumor Segmentation | Marvin Lerousseau    | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_45) | [Code](https://github.com/marvinler/tcga_segmentation)       |
+| Divide-and-Rule: Self-Supervised Learning for Survival Analysis in Colorectal Cancer | Christian Abbet      | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_46) | [Code](https://github.com/christianabbet/DnR)                |
+| Foveation for Segmentation of Mega-Pixel Histology Images    | Chen Jin             | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_54) | [Code](https://github.com/lxasqjc/Foveation-for-Segmentation-of-Mega-pixel-Histology-Images) |
+| Anterior Segment Eye Lesion Segmentation with Advanced Fusion Strategies and Auxiliary Tasks | Ke Wang              | [LNCS](https://doi.org/10.1007/978-3-030-59722-1_63) | [Code](https://github.com/kaisadadi/Anterior-Segment-Eye-Lesion-Segmentation) |
 
 
 
