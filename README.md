@@ -1,5 +1,8 @@
 # MICCAI 2020 Open Source Papers
 
+> We use "code" as the keyword to retrieve the open-source papers. Please feel free to pull requests for the unlisted open-source articles.
+
+
 ## [Part I, LNCS Volume 12261: Machine Learning Methodologies](https://link.springer.com/book/10.1007/978-3-030-59710-8) 
 
 
@@ -154,10 +157,3 @@
 | Patch-Based Abnormality Maps for Improved Deep Learning-Based Classification of Huntington’s Disease | Kilian Hett          | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_62) | [Code](https://github.com/MedICL-VU/patch-based_abnormality) |
 | Modelling the Distribution of 3D Brain MRI Using a 2D Slice VAE | Anna Volokitin       | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_64) | [Code](https://github.com/voanna/slices-to-3d-brain-vae/)    |
 | Image-Level Harmonization of Multi-site Data Using Image-and-Spatial Transformer Networks | Robert Robinson      | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_69) | [Code](https://github.com/mlnotebook/domain_adapation_istn)  |
-
-
-
-
-
-
-**Any contributions are welcome, e.g., new released paper and code.**
