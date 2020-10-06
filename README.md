@@ -2,7 +2,6 @@
 
 ## [Part I, LNCS Volume 12261: Machine Learning Methodologies](https://link.springer.com/book/10.1007/978-3-030-59710-8) 
 
-> 16/81
 
 | Title                                                        | First Author           | PDF                                                  | Code                                                         |
 | ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
@@ -136,34 +135,25 @@
 
 
 
-| Title | First Author | PDF                                                         | Code     |
-| ----- | ------------ | ----------------------------------------------------------- | -------- |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-|       |              | [LNCS]()                                                    | [Code]() |
-
+| Title                                                        | First Author         | PDF                                                  | Code                                                         |
+| ------------------------------------------------------------ | -------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| From Connectomic to Task-Evoked Fingerprints: Individualized Prediction of Task Contrasts from Resting-State Functional Connectivity | Gia H. Ngo           | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_7)  | [Code](https://github.com/ngohgia/brain-surf-cnn)            |
+| Deep Graph Normalizer: A Geometric Deep Learning Approach for Estimating Connectional Brain Templates | Mustafa Burak Gurbuz | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_16) | [Code](https://github.com/basiralab/DGN)                     |
+| Supervised Multi-topology Network Cross-Diffusion for Population-Driven Brain Network Atlas Estimation | Islem Mhiri          | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_17) | [Code](https://github.com/basiralab/SM-netFusion)            |
+| Partial Volume Segmentation of Brain MRI Scans of Any Resolution and Contrast | Benjamin Billot      | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_18) | [Code](https://github.com/BBillot/SynthSeg)                  |
+| Context-Aware Refinement Network Incorporating Structural Connectivity Prior for Brain Midline Delineation | Shen Wang            | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_21) | [Code](https://github.com/ShawnBIT/Brain-Midline-Detection)  |
+| White Matter Tract Segmentation with Self-supervised Learning | Qi Lu                | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_27) | [Code](https://github.com/MIC-DKFZ/TractSeg)                 |
+| Tractogram Filtering of Anatomically Non-plausible Fibers with Geometric Deep Learning | Pietro Astolfi       | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_29) | [Code](https://github.com/FBK-NILab/tractogram_filtering/tree/miccai2020) |
+| TRAKO: Efficient Transmission of Tractography Data for Visualization | Daniel Haehn         | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_32) | [Code](https://github.com/bostongfx/trako)                   |
+| Whole MILC: Generalizing Learned Dynamics Across Tasks, Datasets, and Populations | Usman Mahmood        | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_40) | [Code](https://github.com/UsmanMahmood27/MILC)               |
+| A Deep Pattern Recognition Approach for Inferring Respiratory Volume Fluctuations from fMRI Data | Roza G. Bayrak       | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_42) | [Code](https://github.com/neurdylab/deep-physio-recon)       |
+| Spatio-Temporal Graph Convolution for Resting-State fMRI Analysis | Soham Gadgil         | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_52) | [Code](https://github.com/sgadgil6/cnslab_fmri)              |
+| A Shared Neural Encoding Model for the Prediction of Subject-Specific fMRI Response | Meenakshi Khosla     | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_53) | [Code](https://github.com/mk2299/SharedEncoding_MICCAI)      |
+| Topology-Aware Generative Adversarial Network for Joint Prediction of Multiple Brain Graphs from a Single Brain Graph | Alaa Bessadok        | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_54) | [Code](https://github.com/basiralab/MultiGraphGAN)           |
+| Topology-Aware Generative Adversarial Network for Joint Prediction of Multiple Brain Graphs from a Single Brain Graph | Alaa Bessadok        | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_54) | [Code](https://github.com/basiralab/MultiGraphGAN)           |
+| Patch-Based Abnormality Maps for Improved Deep Learning-Based Classification of Huntington’s Disease | Kilian Hett          | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_62) | [Code](https://github.com/MedICL-VU/patch-based_abnormality) |
+| Modelling the Distribution of 3D Brain MRI Using a 2D Slice VAE | Anna Volokitin       | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_64) | [Code](https://github.com/voanna/slices-to-3d-brain-vae/)    |
+| Image-Level Harmonization of Multi-site Data Using Image-and-Spatial Transformer Networks | Robert Robinson      | [LNCS](https://doi.org/10.1007/978-3-030-59728-3_69) | [Code](https://github.com/mlnotebook/domain_adapation_istn)  |
 
 
 
