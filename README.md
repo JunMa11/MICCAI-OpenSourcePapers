@@ -8,6 +8,7 @@
 
 | Title                                                        | First Author           | PDF                                                  | Code                                                         |
 | ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| Scribble2Label: Scribble-Supervised Cell Segmentation via Self-generating Pseudo-Labels with Consistency | Hyeonsoo Lee | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_2) | [Code](https://github.com/hvcl/scribble2label) |
 | Are Fast Labeling Methods Reliable? A Case Study of Computer-Aided Expert Annotations on Microscopy Slides | Christian Marzahl      | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_3)  | [Code]( https://github.com/DeepPathology/Results-Exact-Study) |
 | BiO-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture | Tiange Xiang           | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_8)  | [Code](https://github.com/tiangexiang/BiO-Net)               |
 | Learning Semantics-Enriched Representation via Self-discovery, Self-classification, and Self-restoration | Fatemeh Haghighi       | [LNCS](https://doi.org/10.1007/978-3-030-59710-8_14) | [Code](https://github.com/JLiangLab/SemanticGenesis)         |
