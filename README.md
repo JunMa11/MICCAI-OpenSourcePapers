@@ -85,6 +85,7 @@
 | Miss the Point: Targeted Adversarial Attack on Multiple Landmark Detection | Qingsong Yao      | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_67) | [Code](https://github.com/qsyao/attack_landmark_detection)   |
 | Non-Rigid Volume to Surface Registration Using a Data-Driven Biomechanical Model | Micha Pfeiffer    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_70) | [Code](https://gitlab.com/nct_tso_public/Volume2SurfaceCNN)  |
 | A Kernelized Multi-level Localization Method for Flexible Shape Modeling with Few Training Data | Matthias Wilms    | [LNCS](https://doi.org/10.1007/978-3-030-59719-1_74) | [Code](https://github.com/wilmsm/localizedssm)               |
+| iU-Net: Towards Accurate Segmentation of Biomedical Images Using Over-Complete Representations | Jeya Maria Jose Valanarasu    | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_36) | [Code](https://github.com/jeya-maria-jose/KiU-Net-pytorch)               |
 
 
 ## [Part V, LNCS Volume 12265: Biological, Optical and Microscopic Image Analysis](https://link.springer.com/book/10.1007/978-3-030-59722-1)
