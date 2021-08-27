@@ -1,3 +1,7 @@
+# Word Cloud of MICCAI 2020 Paper Titles
+
+![WordCloud-MICCAI2020](https://github.com/JunMa11/MICCAI-OpenSourcePapers/blob/master/WordCloud/WordCloud-MICCAI2020.png)
+
 # MICCAI 2020 Open Source Papers
 
 > We use "code" as the keyword to retrieve the open-source papers. Please feel free to pull requests for the unlisted open-source articles.
