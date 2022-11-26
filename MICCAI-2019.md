@@ -1,5 +1,3 @@
-**Counterpart of journal papers: [MedJournal-OpenSourcePapers](https://github.com/JunMa11/MedJournal-OpenSourcePapers)**
-
 # MICCAI 2019 Open Source Papers
 
 ## [Part I, LNCS Volume 11764](https://link.springer.com/book/10.1007/978-3-030-32239-7#volumes) Optical Imaging; Endoscopy; Microscopy 
