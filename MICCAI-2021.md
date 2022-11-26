@@ -1,6 +1,6 @@
 # MICCAI 2021 Open-Source Papers
 
-
+![wordcolud21](https://github.com/JunMa11/MICCAI-OpenSourcePapers/blob/master/WordCloud/WordCloud-MICCAI2021.png)
 
 > We use "Link to the code repository" in [MICCAI2021 Openreview](https://miccai2021.org/openaccess/paperlinks/index.html) as the keyword to retrieve the open-source papers. Please feel free to pull requests for the unlisted open-source papers.
 
