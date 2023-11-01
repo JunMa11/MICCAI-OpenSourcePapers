@@ -102,6 +102,7 @@
 |How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning |Maximilian Blendowski|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_72)|[Code](https://github.com/multimodallearning/miccai19_self_supervision)|
 |Extract Bone Parts Without Human Prior: End-to-end Convolutional Neural Network for Pediatric Bone Age Assessment |Chuanbin Liu|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_74)|[Code](https://github.com/liuboss1992/AR-CNN)|
 |Adversarial Regression Training for Visualizing the Progression of Chronic Obstructive Pulmonary Disease with Chest X-Rays |Ricardo Bigolin Lanfredi|[LNCS](https://doi.org/10.1007/978-3-030-32226-7_76)|[Code](https://github.com/ricbl/vrgan)|
+|Medical-based Deep Curriculum Learning for Improved Fracture Classification |Amelia Jiménez-Sánchez|[MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_77) & [MedIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003182)|[Code](https://github.com/ameliajimenez/curriculum-learning-prior-uncertainty)|
 
 
 
